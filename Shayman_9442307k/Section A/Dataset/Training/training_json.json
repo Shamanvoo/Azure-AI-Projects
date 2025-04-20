@@ -1,0 +1,470 @@
+{
+  "images": [
+    {
+      "id": 1,
+      "width": 251,
+      "height": 1026,
+      "file_name": "cucumber/r0_0.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_0.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_0.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743796Z"
+    },
+    {
+      "id": 2,
+      "width": 249,
+      "height": 1038,
+      "file_name": "cucumber/r0_10.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_10.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_10.jpg",
+      "date_captured": "2024-12-26T03:56:34.1741587Z"
+    },
+    {
+      "id": 3,
+      "width": 623,
+      "height": 747,
+      "file_name": "pear/r0_74.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_74.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_74.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743608Z"
+    },
+    {
+      "id": 4,
+      "width": 186,
+      "height": 662,
+      "file_name": "carrot/r0_90.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_90.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_90.jpg",
+      "date_captured": "2024-12-26T03:56:34.1744071Z"
+    },
+    {
+      "id": 5,
+      "width": 363,
+      "height": 1016,
+      "file_name": "cucumber/r0_102.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_102.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_102.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743883Z"
+    },
+    {
+      "id": 6,
+      "width": 367,
+      "height": 1014,
+      "file_name": "cucumber/r0_104.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_104.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_104.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743473Z"
+    },
+    {
+      "id": 7,
+      "width": 373,
+      "height": 1006,
+      "file_name": "cucumber/r0_110.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_110.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_110.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743558Z"
+    },
+    {
+      "id": 8,
+      "width": 187,
+      "height": 662,
+      "file_name": "carrot/r0_98.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_98.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_98.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743658Z"
+    },
+    {
+      "id": 9,
+      "width": 620,
+      "height": 749,
+      "file_name": "pear/r0_78.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_78.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_78.jpg",
+      "date_captured": "2024-12-26T03:56:34.1744096Z"
+    },
+    {
+      "id": 10,
+      "width": 187,
+      "height": 663,
+      "file_name": "carrot/r0_96.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_96.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_96.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743852Z"
+    },
+    {
+      "id": 11,
+      "width": 370,
+      "height": 1011,
+      "file_name": "cucumber/r0_106.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_106.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_106.jpg",
+      "date_captured": "2024-12-26T03:56:34.174391Z"
+    },
+    {
+      "id": 12,
+      "width": 202,
+      "height": 635,
+      "file_name": "carrot/r0_2.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_2.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_2.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743502Z"
+    },
+    {
+      "id": 13,
+      "width": 185,
+      "height": 663,
+      "file_name": "carrot/r0_88.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_88.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_88.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743935Z"
+    },
+    {
+      "id": 14,
+      "width": 186,
+      "height": 662,
+      "file_name": "carrot/r0_94.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_94.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_94.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743584Z"
+    },
+    {
+      "id": 15,
+      "width": 613,
+      "height": 750,
+      "file_name": "pear/r0_88.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_88.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_88.jpg",
+      "date_captured": "2024-12-26T03:56:34.1744179Z"
+    },
+    {
+      "id": 16,
+      "width": 371,
+      "height": 1008,
+      "file_name": "cucumber/r0_108.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_108.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_108.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743967Z"
+    },
+    {
+      "id": 17,
+      "width": 622,
+      "height": 748,
+      "file_name": "pear/r0_76.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_76.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_76.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743993Z"
+    },
+    {
+      "id": 18,
+      "width": 613,
+      "height": 750,
+      "file_name": "pear/r0_86.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_86.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_86.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743767Z"
+    },
+    {
+      "id": 19,
+      "width": 360,
+      "height": 1018,
+      "file_name": "cucumber/r0_100.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_100.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_100.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743822Z"
+    },
+    {
+      "id": 20,
+      "width": 185,
+      "height": 664,
+      "file_name": "carrot/r0_86.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_86.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_86.jpg",
+      "date_captured": "2024-12-26T03:56:34.1744146Z"
+    },
+    {
+      "id": 21,
+      "width": 615,
+      "height": 750,
+      "file_name": "pear/r0_84.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_84.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_84.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743632Z"
+    },
+    {
+      "id": 22,
+      "width": 297,
+      "height": 928,
+      "file_name": "cucumber/r0_176.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_176.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_176.jpg",
+      "date_captured": "2024-12-26T03:56:34.1744249Z"
+    },
+    {
+      "id": 23,
+      "width": 205,
+      "height": 636,
+      "file_name": "carrot/r0_6.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_6.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_6.jpg",
+      "date_captured": "2024-12-26T03:56:34.174342Z"
+    },
+    {
+      "id": 24,
+      "width": 619,
+      "height": 747,
+      "file_name": "pear/r0_80.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_80.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_80.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743527Z"
+    },
+    {
+      "id": 25,
+      "width": 612,
+      "height": 750,
+      "file_name": "pear/r0_90.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_90.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_90.jpg",
+      "date_captured": "2024-12-26T03:56:34.1744121Z"
+    },
+    {
+      "id": 26,
+      "width": 186,
+      "height": 662,
+      "file_name": "carrot/r0_92.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_92.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_92.jpg",
+      "date_captured": "2024-12-26T03:56:34.1744047Z"
+    },
+    {
+      "id": 27,
+      "width": 204,
+      "height": 634,
+      "file_name": "carrot/r0_4.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/carrot/r0_4.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/carrot/r0_4.jpg",
+      "date_captured": "2024-12-26T03:56:34.1744017Z"
+    },
+    {
+      "id": 28,
+      "width": 294,
+      "height": 926,
+      "file_name": "cucumber/r0_178.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/cucumber/r0_178.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/cucumber/r0_178.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743728Z"
+    },
+    {
+      "id": 29,
+      "width": 617,
+      "height": 749,
+      "file_name": "pear/r0_82.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_82.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_82.jpg",
+      "date_captured": "2024-12-26T03:56:34.174421Z"
+    },
+    {
+      "id": 30,
+      "width": 597,
+      "height": 746,
+      "file_name": "pear/r0_8.jpg",
+      "coco_url": "AmlDatastore://submission_a_datastore/pear/r0_8.jpg",
+      "absolute_url": "https://customclassifykek.blob.core.windows.net/fruit2/pear/r0_8.jpg",
+      "date_captured": "2024-12-26T03:56:34.1743692Z"
+    }
+  ],
+  "annotations": [
+    {
+      "id": 1,
+      "category_id": 2,
+      "image_id": 1,
+      "area": 0.0
+    },
+    {
+      "id": 2,
+      "category_id": 2,
+      "image_id": 2,
+      "area": 0.0
+    },
+    {
+      "id": 3,
+      "category_id": 3,
+      "image_id": 3,
+      "area": 0.0
+    },
+    {
+      "id": 4,
+      "category_id": 1,
+      "image_id": 4,
+      "area": 0.0
+    },
+    {
+      "id": 5,
+      "category_id": 2,
+      "image_id": 5,
+      "area": 0.0
+    },
+    {
+      "id": 6,
+      "category_id": 2,
+      "image_id": 6,
+      "area": 0.0
+    },
+    {
+      "id": 7,
+      "category_id": 2,
+      "image_id": 7,
+      "area": 0.0
+    },
+    {
+      "id": 8,
+      "category_id": 1,
+      "image_id": 8,
+      "area": 0.0
+    },
+    {
+      "id": 9,
+      "category_id": 3,
+      "image_id": 9,
+      "area": 0.0
+    },
+    {
+      "id": 10,
+      "category_id": 1,
+      "image_id": 10,
+      "area": 0.0
+    },
+    {
+      "id": 11,
+      "category_id": 2,
+      "image_id": 11,
+      "area": 0.0
+    },
+    {
+      "id": 12,
+      "category_id": 1,
+      "image_id": 12,
+      "area": 0.0
+    },
+    {
+      "id": 13,
+      "category_id": 1,
+      "image_id": 13,
+      "area": 0.0
+    },
+    {
+      "id": 14,
+      "category_id": 1,
+      "image_id": 14,
+      "area": 0.0
+    },
+    {
+      "id": 15,
+      "category_id": 3,
+      "image_id": 15,
+      "area": 0.0
+    },
+    {
+      "id": 16,
+      "category_id": 2,
+      "image_id": 16,
+      "area": 0.0
+    },
+    {
+      "id": 17,
+      "category_id": 3,
+      "image_id": 17,
+      "area": 0.0
+    },
+    {
+      "id": 18,
+      "category_id": 3,
+      "image_id": 18,
+      "area": 0.0
+    },
+    {
+      "id": 19,
+      "category_id": 2,
+      "image_id": 19,
+      "area": 0.0
+    },
+    {
+      "id": 20,
+      "category_id": 1,
+      "image_id": 20,
+      "area": 0.0
+    },
+    {
+      "id": 21,
+      "category_id": 3,
+      "image_id": 21,
+      "area": 0.0
+    },
+    {
+      "id": 22,
+      "category_id": 2,
+      "image_id": 22,
+      "area": 0.0
+    },
+    {
+      "id": 23,
+      "category_id": 1,
+      "image_id": 23,
+      "area": 0.0
+    },
+    {
+      "id": 24,
+      "category_id": 3,
+      "image_id": 24,
+      "area": 0.0
+    },
+    {
+      "id": 25,
+      "category_id": 3,
+      "image_id": 25,
+      "area": 0.0
+    },
+    {
+      "id": 26,
+      "category_id": 1,
+      "image_id": 26,
+      "area": 0.0
+    },
+    {
+      "id": 27,
+      "category_id": 1,
+      "image_id": 27,
+      "area": 0.0
+    },
+    {
+      "id": 28,
+      "category_id": 2,
+      "image_id": 28,
+      "area": 0.0
+    },
+    {
+      "id": 29,
+      "category_id": 3,
+      "image_id": 29,
+      "area": 0.0
+    },
+    {
+      "id": 30,
+      "category_id": 3,
+      "image_id": 30,
+      "area": 0.0
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "carrot"
+    },
+    {
+      "id": 2,
+      "name": "cucumber"
+    },
+    {
+      "id": 3,
+      "name": "pear"
+    }
+  ]
+}
